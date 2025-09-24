@@ -1,0 +1,12 @@
+Cuando publiquemos un sitio en el 172.17.3.130 y no lo ejecute el ISS, seguir los
+siguientes pasos:
+
+*Vamos al ISS.
+*Seleccionamos el sitio.
+*En sus configuraciones del sitio seleccionar:
+	*Authentication
+	*AnonymousAuthentication
+		*Edit
+		*Application pool identity (debe estar seleccionada esta opción)
+
+Con estos pasos el ISS ejecutará el sitio.

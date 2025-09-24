@@ -1,0 +1,8 @@
+Nombre de la visita
+numero de empleado solicitante (al que va a ver) 
+comentarios
+dia que visita
+horas que va estar 
+Direccion
+Lugar
+
